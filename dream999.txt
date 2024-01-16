@@ -1818,12 +1818,12 @@ CHC动作电影,http://www.51romzj.xyz/diyroms/dll/gd.php?/PLTV/&id=chcdz
 中山香山文化,http://www.51romzj.xyz/diyroms/dll/gd.php?/PLTV/&id=zsxswhhd
 中山教育,http://www.51romzj.xyz/diyroms/dll/gd.php?/PLTV/&id=zsjy
 嘉佳卡通,http://www.51romzj.xyz/diyroms/dll/ysp/gddx.php?id=jjkt
-广州综合,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=zhonghe
-广州新闻,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=xinwen
-广州竞赛,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=jingsai
-广州影视,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=yingshi
-广州法治,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=fazhi
-南国都市,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=shenghuo
+广州综合,http://www.51zb.fun/diyromss/gztv.php?id=zhonghe
+广州新闻,http://www.51zb.fun/diyromss/gztv.php?id=xinwen
+广州竞赛,http://www.51zb.fun/diyromss/gztv.php?id=jingsai
+广州影视,http://www.51zb.fun/diyromss/gztv.php?id=yingshi
+广州法治,http://www.51zb.fun/diyromss/gztv.php?id=fazhi
+南国都市,http://www.51zb.fun/diyromss/gztv.php?id=shenghuo
 湖南经视,http://www.51romzj.xyz/diyroms/dll/ysp/otv.php?id=hunanjingshi
 湖南爱晚,http://www.51romzj.xyz/diyroms/dll/ysp/otv.php?id=hunanaiwan
 湖南娱乐,http://www.51romzj.xyz/diyroms/dll/ysp/otv.php?id=hunanyule
@@ -1843,6 +1843,10 @@ CHC动作电影,http://www.51romzj.xyz/diyroms/dll/gd.php?/PLTV/&id=chcdz
 河北少儿科教,http://www.51romzj.shop:666/hbjd.php?id=hbsekj
 河北公共,http://www.51romzj.shop:666/hbjd.php?id=hbgg
 河北杂技,http://www.51romzj.shop:666/hbjd.php?id=hbzj
+石家庄新闻综合,http://www.51zb.fun/diyromss/sjztv.php?id=sjzxwzh
+石家庄都市,http://www.51zb.fun/diyromss/sjztv.php?id=sjzds
+石家庄娱乐,http://www.51zb.fun/diyromss/sjztv.php?id=sjzyl
+石家庄生活,http://www.51zb.fun/diyromss/sjztv.php?id=sjzsh
 湖北卫视,http://111.172.8.118:8887/udp/239.254.104.115:8664
 湖北经视,http://111.172.8.118:8887/udp/239.69.1.41:9886
 湖北综合,http://111.172.8.118:8887/udp/239.69.1.42:9892
@@ -3518,6 +3522,26 @@ US: NBA 00,http://dinka-iptv.live:80/hN2dSfe1Je/Agw5wEjyn4/317144
 😋 乡村美食
 
 🎼 抖音听歌
+8090经典歌曲,http://www.51zb.fun/diyromss/douyin.php?id=184644046092
+24小时听歌,http://www.51zb.fun/diyromss/douyin.php?id=135497660377
+经典华语榜,http://www.51zb.fun/diyromss/douyin.php?id=748387541327
+24小时音乐直播,http://www.51zb.fun/diyromss/douyin.php?id=979523446451
+多多音乐,http://www.51zb.fun/diyromss/douyin.php?id=187022987460
+情感音乐,http://www.51zb.fun/diyromss/douyin.php?id=756191624592
+刀粉,http://www.51zb.fun/diyromss/douyin.php?id=654357398111
+24小时音乐,http://www.51zb.fun/diyromss/douyin.php?id=53658018908
+24小时伤感音乐,http://www.51zb.fun/diyromss/douyin.php?id=817800357534
+倾听粤语,http://www.51zb.fun/diyromss/douyin.php?id=746822069525
+1,http://www.51zb.fun/diyromss/douyin.php?id=154588479738
+2,http://www.51zb.fun/diyromss/douyin.php?id=846636263953
+3,http://www.51zb.fun/diyromss/douyin.php?id=380034390763
+4,http://www.51zb.fun/diyromss/douyin.php?id=897066474018
+5,http://www.51zb.fun/diyromss/douyin.php?id=17971512257
+6,http://www.51zb.fun/diyromss/douyin.php?id=396732585605
+7,http://www.51zb.fun/diyromss/douyin.php?id=706596648103
+8,http://www.51zb.fun/diyromss/douyin.php?id=634137499406
+9,http://www.51zb.fun/diyromss/douyin.php?id=505527789563
+10,http://www.51zb.fun/diyromss/douyin.php?id=404451182865
 
 🚅  4K8K/16M(IPV6)
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
@@ -6967,6 +6991,37 @@ CCTVnews,http://lovegfs.top:8000/udp/239.120.1.161:9024
 四川妇女儿童,http://ainm.cc/c/tv/sctv/scxl.php?id=scfnet
 四川乡村,http://ainm.cc/c/tv/sctv/scxl.php?id=scxc
 四川星空购物,http://ainm.cc/c/tv/sctv/scxl.php?id=scxkgw
+成都新闻综合,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdxwzh
+成都经济资讯,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdjjzx
+成都都市生活,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cddssh
+成都影视文艺,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdyswy
+成都公共,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdgg
+成都少儿,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdse
+成都蓉城先锋,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdrcxf
+FM99.8 成都新闻频率,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdxwpl
+FM91.4 成都交通频率,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdjtpl
+FM105.6 成都经济频率,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdjjpl
+FM88.2 成都故事广播,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdgsgb
+FM94.6 成都文化休闲频率,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdwhxxpl
+FM93.5 成都都江堰人民广播电台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cddjyrmgb
+彭州市广播电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdpzzh
+青白江融媒体中心,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdqbj
+蒲江电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdpj
+大邑广播电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cddy
+金堂电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdjt
+邛崃电视台综合频道,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdql
+都江堰电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cddjy
+简阳市广播电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdjy
+郫都区广播电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdpd
+双流区广播电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdsl
+温江电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdwj
+新都区广播电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdxd
+成华有线电视,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdch
+武侯电视,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdwh
+金牛区有线电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdjn
+青羊区融媒体中心,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdqy
+锦江电视,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdjj
+高新电视台,http://www.51zb.fun/diyromss/akcd.php?/PLTV/&id=cdgx
 成都新闻,http://www.51romzj.top/moss/dll/cd.php?id=cdxw
 成都经济资讯,http://www.51romzj.top/moss/dll/cd.php?id=cdjj
 成都都市生活,http://www.51romzj.top/moss/dll/cd.php?id=cdds
@@ -8272,12 +8327,12 @@ CETV4,http://www.51romzj.xyz/diyroms/dll/8mgq.php?id=zgjy4hd8m/8000000
 广东卫视,http://www.51romzj.xyz/diyroms/dll/ysp/ss.php?id=gdws
 广东新闻,http://www.51romzj.xyz/diyroms/dll/ysp/ss.php?id=gdxw
 广东民生,http://www.51romzj.xyz/diyroms/dll/ysp/ss.php?id=gdms
-广州综合,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=zhonghe
-广州新闻,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=xinwen
-广州竞赛,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=jingsai
-广州影视,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=yingshi
-广州法治,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=fazhi
-南国都市,http://www.51romzj.fun/dll/diyroms/dll/gzgtv.php?id=shenghuo
+广州综合,http://www.51zb.fun/diyromss/gztv.php?id=zhonghe
+广州新闻,http://www.51zb.fun/diyromss/gztv.php?id=xinwen
+广州竞赛,http://www.51zb.fun/diyromss/gztv.php?id=jingsai
+广州影视,http://www.51zb.fun/diyromss/gztv.php?id=yingshi
+广州法治,http://www.51zb.fun/diyromss/gztv.php?id=fazhi
+南国都市,http://www.51zb.fun/diyromss/gztv.php?id=shenghuo
 广东卫视,http://www.51romzj.top/moss/dll/gdtv.php?id=gdws
 广东珠江,http://www.51romzj.top/moss/dll/gdtv.php?id=gdzj
 广东新闻,http://www.51romzj.top/moss/dll/gdtv.php?id=gdxw
