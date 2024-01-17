@@ -3545,6 +3545,7 @@ US: NBA 00,http://dinka-iptv.live:80/hN2dSfe1Je/Agw5wEjyn4/317144
 10,http://www.51zb.fun/diyromss/douyin.php?id=404451182865
 
 🚅  4K8K/16M(IPV6)
+抖音4K,http://www.51zb.fun/diyromss/douyin4k.php
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
