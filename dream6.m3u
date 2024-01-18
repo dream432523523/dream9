@@ -1,33 +1,5 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+﻿#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="🚈 V6高速(可回看)",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/1/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="🚈 V6高速(可回看)",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/1/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="🚈 V6高速(可回看)",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="🚈 V6高速(可回看)",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="🚈 V6高速(可回看)",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw719207932_-767615852/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8?icpid=3&RTS=1704621699&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="🚈 V6高速(可回看)",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw465428200_-837848489/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8?icpid=3&RTS=1704621445&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="🚈 V6高速(可回看)",CHC动作电影
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="🚈 V6高速(可回看)",CHC高清电影
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="🚈 V6高速(可回看)",CHC家庭影院
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="🚈 V6高速(可回看)",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" tvg-id="CCTV3" tvg-name="CCTV3" group-title="🚈 V6高速(可回看)",CCTV3-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚈 V6高速(可回看)",CCTV5-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" tvg-id="CCTV6" tvg-name="CCTV6" group-title="🚈 V6高速(可回看)",CCTV6-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8" tvg-name="CCTV8" group-title="🚈 V6高速(可回看)",CCTV8-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="🚈 V6高速(可回看)",CCTV1
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227725/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" tvg-id="CCTV2" tvg-name="CCTV2" group-title="🚈 V6高速(可回看)",CCTV2
@@ -72,96 +44,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/32212282
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8k.png" tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="🚈 V6高速(可回看)",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV高尔夫网球.png" tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" group-title="🚈 V6高速(可回看)",CCTV高尔夫网球
-http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228138/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV风云足球.png" tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" group-title="🚈 V6高速(可回看)",CCTV风云足球
-http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV第一剧场.png" tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="🚈 V6高速(可回看)",CCTV第一剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV风云音乐.png" tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" group-title="🚈 V6高速(可回看)",CCTV风云音乐
-http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228665/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV风云剧场.png" tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" group-title="🚈 V6高速(可回看)",CCTV风云剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV兵器科技.png" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="🚈 V6高速(可回看)",CCTV兵器科技
-http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228686/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV电视指南.png" tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" group-title="🚈 V6高速(可回看)",CCTV电视指南
-http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV央视台球.png" tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" group-title="🚈 V6高速(可回看)",CCTV央视台球
-http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228683/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV怀旧剧场.png" tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" group-title="🚈 V6高速(可回看)",CCTV怀旧剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV女性时尚.png" tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" group-title="🚈 V6高速(可回看)",CCTV女性时尚
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228674/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV央视文化精品.png" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="🚈 V6高速(可回看)",CCTV央视文化精品
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV世界地理.png" tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="🚈 V6高速(可回看)",CCTV世界地理
-http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221228680/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/IPTV5.png" tvg-id="IPTV5" tvg-name="IPTV5" group-title="🚈 V6高速(可回看)",IPTV5
-http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/4/224/3221227686/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/IPTV5+.png" tvg-id="IPTV5+" tvg-name="IPTV5+" group-title="🚈 V6高速(可回看)",IPTV5+
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228277/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CGTN.png" tvg-id="CGTN" tvg-name="CGTN" group-title="🚈 V6高速(可回看)",CGTN
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227574/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" tvg-id="CGTN纪录" tvg-name="CGTN纪录" group-title="🚈 V6高速(可回看)",CGTN纪录
-http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/4/224/3221227574/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CETV1.png" tvg-id="CETV1" tvg-name="CETV1" group-title="🚈 V6高速(可回看)",CETV1
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227560/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CETV3.png" tvg-id="CETV3" tvg-name="CETV3" group-title="🚈 V6高速(可回看)",CETV3
-http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221227018/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CETV4.png" tvg-id="CETV4" tvg-name="CETV4" group-title="🚈 V6高速(可回看)",CETV4
-http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221227028/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CETV早期教育.png" tvg-id="CETV早期教育" tvg-name="CETV早期教育" group-title="🚈 V6高速(可回看)",CETV早期教育
-http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" tvg-id="爱上4K" tvg-name="爱上4K" group-title="🚈 V6高速(可回看)",爱上4K
-http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" tvg-id="4K修复" tvg-name="4K修复" group-title="🚈 V6高速(可回看)",4K修复
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="🚈 V6高速(可回看)",香港8K
-http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228132/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/农业致富.png" tvg-id="农业致富" tvg-name="农业致富" group-title="🚈 V6高速(可回看)",农业致富
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/古装剧场.png" tvg-id="古装剧场" tvg-name="古装剧场" group-title="🚈 V6高速(可回看)",古装剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/哒啵赛事.png" tvg-id="哒啵赛事" tvg-name="哒啵赛事" group-title="🚈 V6高速(可回看)",哒啵赛事
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/黑莓电影.png" tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="🚈 V6高速(可回看)",黑莓电影
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/黑莓动画.png" tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="🚈 V6高速(可回看)",黑莓动画
-http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227523/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/家庭剧场.png" tvg-id="家庭剧场" tvg-name="家庭剧场" group-title="🚈 V6高速(可回看)",家庭剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/军旅剧场.png" tvg-id="军旅剧场" tvg-name="军旅剧场" group-title="🚈 V6高速(可回看)",军旅剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/动作电影.png" tvg-id="动作电影" tvg-name="动作电影" group-title="🚈 V6高速(可回看)",动作电影
-http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/炫舞未来.png" tvg-id="炫舞未来" tvg-name="炫舞未来" group-title="🚈 V6高速(可回看)",炫舞未来
-http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221227475/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/中国功夫.png" tvg-id="中国功夫" tvg-name="中国功夫" group-title="🚈 V6高速(可回看)",中国功夫
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/军事评论.png" tvg-id="军事评论" tvg-name="军事评论" group-title="🚈 V6高速(可回看)",军事评论
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/惊悚悬疑.png" tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" group-title="🚈 V6高速(可回看)",惊悚悬疑
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/金牌综艺.png" tvg-id="金牌综艺" tvg-name="金牌综艺" group-title="🚈 V6高速(可回看)",金牌综艺
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/潮妈辣婆.png" tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" group-title="🚈 V6高速(可回看)",潮妈辣婆
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/怡伴健康.png" tvg-id="怡伴健康" tvg-name="怡伴健康" group-title="🚈 V6高速(可回看)",怡伴健康
-http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/4/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/爱情喜剧.png" tvg-id="爱情喜剧" tvg-name="爱情喜剧" group-title="🚈 V6高速(可回看)",爱情喜剧
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/精品体育.png" tvg-id="精品体育" tvg-name="精品体育" group-title="🚈 V6高速(可回看)",精品体育
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/精品大剧.png" tvg-id="精品大剧" tvg-name="精品大剧" group-title="🚈 V6高速(可回看)",精品大剧
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/精品纪录.png" tvg-id="精品纪录" tvg-name="精品纪录" group-title="🚈 V6高速(可回看)",精品纪录
-http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/4/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/武搏世界.png" tvg-id="武搏世界" tvg-name="武搏世界" group-title="🚈 V6高速(可回看)",武搏世界
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227533/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/精品萌宠.png" tvg-id="精品萌宠" tvg-name="精品萌宠" group-title="🚈 V6高速(可回看)",精品萌宠
-http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228430/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/运动健身.png" tvg-id="运动健身" tvg-name="运动健身" group-title="🚈 V6高速(可回看)",运动健身
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" tvg-id="山东卫视" tvg-name="山东卫视" group-title="🚈 V6高速(可回看)",山东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227697/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="🚈 V6高速(可回看)",江苏卫视
@@ -254,6 +136,124 @@ http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/32212274
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221227558/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" tvg-id="山西卫视" tvg-name="山西卫视" group-title="🚈 V6高速(可回看)",山西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb06]ott.mobaibox.com/PLTV/3/224/3221227559/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="🚈 V6高速(可回看)",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/1/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="🚈 V6高速(可回看)",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/1/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="🚈 V6高速(可回看)",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="🚈 V6高速(可回看)",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="🚈 V6高速(可回看)",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw719207932_-767615852/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8?icpid=3&RTS=1704621699&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="🚈 V6高速(可回看)",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw465428200_-837848489/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8?icpid=3&RTS=1704621445&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" tvg-id="CHC动作电影" tvg-name="CHC动作电影" group-title="🚈 V6高速(可回看)",CHC动作电影
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" tvg-id="CHC高清电影" tvg-name="CHC高清电影" group-title="🚈 V6高速(可回看)",CHC高清电影
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" group-title="🚈 V6高速(可回看)",CHC家庭影院
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="🚈 V6高速(可回看)",CCTV1-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" tvg-id="CCTV3" tvg-name="CCTV3" group-title="🚈 V6高速(可回看)",CCTV3-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" tvg-id="CCTV5" tvg-name="CCTV5" group-title="🚈 V6高速(可回看)",CCTV5-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" tvg-id="CCTV6" tvg-name="CCTV6" group-title="🚈 V6高速(可回看)",CCTV6-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" tvg-id="CCTV8" tvg-name="CCTV8" group-title="🚈 V6高速(可回看)",CCTV8-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV高尔夫网球.png" tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" group-title="🚈 V6高速(可回看)",CCTV高尔夫网球
+http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228138/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV风云足球.png" tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" group-title="🚈 V6高速(可回看)",CCTV风云足球
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228668/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV第一剧场.png" tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="🚈 V6高速(可回看)",CCTV第一剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228659/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV风云音乐.png" tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" group-title="🚈 V6高速(可回看)",CCTV风云音乐
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228665/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV风云剧场.png" tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" group-title="🚈 V6高速(可回看)",CCTV风云剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228662/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV兵器科技.png" tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="🚈 V6高速(可回看)",CCTV兵器科技
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228686/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV电视指南.png" tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" group-title="🚈 V6高速(可回看)",CCTV电视指南
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228689/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV央视台球.png" tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" group-title="🚈 V6高速(可回看)",CCTV央视台球
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228683/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV怀旧剧场.png" tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" group-title="🚈 V6高速(可回看)",CCTV怀旧剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV女性时尚.png" tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" group-title="🚈 V6高速(可回看)",CCTV女性时尚
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228674/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV央视文化精品.png" tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" group-title="🚈 V6高速(可回看)",CCTV央视文化精品
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228677/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV世界地理.png" tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="🚈 V6高速(可回看)",CCTV世界地理
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221228680/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/IPTV5.png" tvg-id="IPTV5" tvg-name="IPTV5" group-title="🚈 V6高速(可回看)",IPTV5
+http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/4/224/3221227686/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/IPTV5+.png" tvg-id="IPTV5+" tvg-name="IPTV5+" group-title="🚈 V6高速(可回看)",IPTV5+
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228277/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CGTN.png" tvg-id="CGTN" tvg-name="CGTN" group-title="🚈 V6高速(可回看)",CGTN
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227574/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" tvg-id="CGTN纪录" tvg-name="CGTN纪录" group-title="🚈 V6高速(可回看)",CGTN纪录
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/4/224/3221227574/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CETV1.png" tvg-id="CETV1" tvg-name="CETV1" group-title="🚈 V6高速(可回看)",CETV1
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227560/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CETV3.png" tvg-id="CETV3" tvg-name="CETV3" group-title="🚈 V6高速(可回看)",CETV3
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221227018/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CETV4.png" tvg-id="CETV4" tvg-name="CETV4" group-title="🚈 V6高速(可回看)",CETV4
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221227028/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CETV早期教育.png" tvg-id="CETV早期教育" tvg-name="CETV早期教育" group-title="🚈 V6高速(可回看)",CETV早期教育
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228692/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" tvg-id="爱上4K" tvg-name="爱上4K" group-title="🚈 V6高速(可回看)",爱上4K
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/4K修复.png" tvg-id="4K修复" tvg-name="4K修复" group-title="🚈 V6高速(可回看)",4K修复
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
+#EXTINF:-1 group-title="🚈 V6高速(可回看)",香港8K
+http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/4/224/3221228132/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/农业致富.png" tvg-id="农业致富" tvg-name="农业致富" group-title="🚈 V6高速(可回看)",农业致富
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/古装剧场.png" tvg-id="古装剧场" tvg-name="古装剧场" group-title="🚈 V6高速(可回看)",古装剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/哒啵赛事.png" tvg-id="哒啵赛事" tvg-name="哒啵赛事" group-title="🚈 V6高速(可回看)",哒啵赛事
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/黑莓电影.png" tvg-id="黑莓电影" tvg-name="黑莓电影" group-title="🚈 V6高速(可回看)",黑莓电影
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/黑莓动画.png" tvg-id="黑莓动画" tvg-name="黑莓动画" group-title="🚈 V6高速(可回看)",黑莓动画
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227523/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/家庭剧场.png" tvg-id="家庭剧场" tvg-name="家庭剧场" group-title="🚈 V6高速(可回看)",家庭剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/军旅剧场.png" tvg-id="军旅剧场" tvg-name="军旅剧场" group-title="🚈 V6高速(可回看)",军旅剧场
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227603/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/动作电影.png" tvg-id="动作电影" tvg-name="动作电影" group-title="🚈 V6高速(可回看)",动作电影
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/炫舞未来.png" tvg-id="炫舞未来" tvg-name="炫舞未来" group-title="🚈 V6高速(可回看)",炫舞未来
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/4/224/3221227475/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/中国功夫.png" tvg-id="中国功夫" tvg-name="中国功夫" group-title="🚈 V6高速(可回看)",中国功夫
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/军事评论.png" tvg-id="军事评论" tvg-name="军事评论" group-title="🚈 V6高速(可回看)",军事评论
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/惊悚悬疑.png" tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" group-title="🚈 V6高速(可回看)",惊悚悬疑
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227536/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/金牌综艺.png" tvg-id="金牌综艺" tvg-name="金牌综艺" group-title="🚈 V6高速(可回看)",金牌综艺
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/潮妈辣婆.png" tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" group-title="🚈 V6高速(可回看)",潮妈辣婆
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/怡伴健康.png" tvg-id="怡伴健康" tvg-name="怡伴健康" group-title="🚈 V6高速(可回看)",怡伴健康
+http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/4/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/爱情喜剧.png" tvg-id="爱情喜剧" tvg-name="爱情喜剧" group-title="🚈 V6高速(可回看)",爱情喜剧
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227548/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/精品体育.png" tvg-id="精品体育" tvg-name="精品体育" group-title="🚈 V6高速(可回看)",精品体育
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/精品大剧.png" tvg-id="精品大剧" tvg-name="精品大剧" group-title="🚈 V6高速(可回看)",精品大剧
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/4/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/精品纪录.png" tvg-id="精品纪录" tvg-name="精品纪录" group-title="🚈 V6高速(可回看)",精品纪录
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/4/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/武搏世界.png" tvg-id="武搏世界" tvg-name="武搏世界" group-title="🚈 V6高速(可回看)",武搏世界
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/精品萌宠.png" tvg-id="精品萌宠" tvg-name="精品萌宠" group-title="🚈 V6高速(可回看)",精品萌宠
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228430/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.eu.org/logo/运动健身.png" tvg-id="运动健身" tvg-name="运动健身" group-title="🚈 V6高速(可回看)",运动健身
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" tvg-id="山东教育卫视" tvg-name="山东教育卫视" group-title="🚈 V6高速(可回看)",山东教育卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221227019/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" tvg-id="纪实人文" tvg-name="纪实人文" group-title="🚈 V6高速(可回看)",纪实人文
