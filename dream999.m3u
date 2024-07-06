@@ -12683,6 +12683,7 @@ CCTV-天元围棋,http:/huangfeiyan.top/zb1/CCTV-TYWQ.m3u8
 CCTV-环球奇观,http:/huangfeiyan.top/zb1/CCTV-HQQG.m3u8
 CCTV-汽摩,http:/huangfeiyan.top/zb1/CCTV-QM.m3u8
 CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
+
 各省卫视,#genre#
 安徽卫视,http:/1.95.63.93/zb/AHWS.m3u8
 北京卫视,http:/1.95.63.93/zb/BJWS.m3u8
@@ -12844,7 +12845,9 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 云南卫视,http:/huangfeiyan.top/zb1/YNWS.m3u8
 浙江卫视,http:/huangfeiyan.top/zb1/ZJWS.m3u8
 重庆卫视,http:/huangfeiyan.top/zb1/CQWS.m3u8
-本地频道,#genre#
+
+
+贵州频道,#genre#
 贵州-2-公共频道,http:/1.95.63.93/zb/GZ-2.m3u8
 贵州-3-影视文艺频道,http:/1.95.63.93/zb/GZ-3.m3u8
 贵州-4-大众生活频道,http:/1.95.63.93/zb/GZ-4.m3u8
@@ -12905,6 +12908,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 贵阳-3 法制频道,http://1.95.63.93/zb/GY-3.m3u8
 六盘水-1,http://1.95.63.93/zb/LPS-1.m3u8
 六盘水-2,http://1.95.63.93/zb/LPS-2.m3u8
+
+
 少儿频道,#genre#
 卡酷少儿,http:/1.95.63.93/zb/KAKU.m3u8
 哈哈炫动,http:/1.95.63.93/zb/HHXD.m3u8
@@ -12952,6 +12957,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 灌篮高手剧集,http://a.huangfeiyan.top:35455/yy/1356243352?media=hls
 四驱兄弟,http://a.huangfeiyan.top:35455/huya/11352922?media=hls
 猫和老鼠,http://a.huangfeiyan.top:35455/huya/11352879?media=hls
+
+
 电影频道,#genre#
 漫威系列,http://b.huangfeiyan.top:35455/douyu/6140589?media=hls
 好先生,http://b.huangfeiyan.top:35455/douyu/9650792?media=hls
@@ -13157,6 +13164,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 漫威系列轮播,http://a.huangfeiyan.top:35455/yy/1354932402?media=hls
 夺宝奇兵全集,http://a.huangfeiyan.top:35455/yy/1382736833?media=hls
 古惑仔国轮播,http://a.huangfeiyan.top:35455/yy/1458015189?media=hls
+
+
 电影解说,#genre#
 史君说剧,http://b.huangfeiyan.top:35455/douyu/9419771?media=hls
 史剧解说,http://b.huangfeiyan.top:35455/douyu/297689?media=hls
@@ -13206,6 +13215,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 刘老师说电影,http://a.huangfeiyan.top:35455/douyu/8317926?media=hls
 来呀官人解说,http://a.huangfeiyan.top:35455/douyu/9986305?media=hls
 科幻Fans布玛,http://a.huangfeiyan.top:35455/douyu/3508304?media=hls
+
+
 明星轮播,#genre#
 周星驰,http://b.huangfeiyan.top:35455/douyu/122402?media=hls
 刘德华,http://b.huangfeiyan.top:35455/douyu/2516864?media=hls
@@ -13267,6 +13278,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 冯小刚,http://a.huangfeiyan.top:35455/huya/11352906?media=hls
 斯坦森,http://a.huangfeiyan.top:35455/huya/11352963?media=hls
 曾江,http://a.huangfeiyan.top:35455/huya/11601981?media=hls
+
+
 恐怖电影,#genre#
 恐怖电影,http://b.huangfeiyan.top:35455/douyu/6906628?media=hls
 恐怖电影1,http://b.huangfeiyan.top:35455/douyu/218859?media=hls
@@ -13336,6 +13349,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 恐怖片,http://a.huangfeiyan.top:35455/yy/1455891197?media=hls
 鬼片恐怖私人影院,http://a.huangfeiyan.top:35455/yy/1354952229?media=hls
 超级吓人鬼片,http://a.huangfeiyan.top:35455/yy/1355641195?media=hls
+
+
 经典小品,#genre#
 经典小品,http://b.huangfeiyan.top:35455/douyu/9067836?media=hls
 本山大叔,http://b.huangfeiyan.top:35455/douyu/9817716?media=hls
@@ -13349,6 +13364,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 今晚80后脱口秀,http://a.huangfeiyan.top:35455/huya/11352961?media=hls
 小品1,http://a.huangfeiyan.top:35455/huya/11352938?media=hls
 陈翔六点半,http://a.huangfeiyan.top:35455/huya/11274154?media=hls
+
+
 电视剧,#genre#
 古灵精探,http://b.huangfeiyan.top:35455/douyu/11656555?media=hls
 封神榜,http://b.huangfeiyan.top:35455/huya/23749096?media=hls
@@ -13580,6 +13597,8 @@ CCTV-天元围棋,http:/huangfeiyan.top/zb1/CCTV-TYWQ.m3u8
 CCTV-环球奇观,http:/huangfeiyan.top/zb1/CCTV-HQQG.m3u8
 CCTV-汽摩,http:/huangfeiyan.top/zb1/CCTV-QM.m3u8
 CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
+
+
 各省卫视,#genre#
 安徽卫视,http:/1.95.63.93/zb/AHWS.m3u8
 北京卫视,http:/1.95.63.93/zb/BJWS.m3u8
@@ -13741,6 +13760,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 云南卫视,http:/huangfeiyan.top/zb1/YNWS.m3u8
 浙江卫视,http:/huangfeiyan.top/zb1/ZJWS.m3u8
 重庆卫视,http:/huangfeiyan.top/zb1/CQWS.m3u8
+
+
 本地频道,#genre#
 贵州-2-公共频道,http:/1.95.63.93/zb/GZ-2.m3u8
 贵州-3-影视文艺频道,http:/1.95.63.93/zb/GZ-3.m3u8
@@ -13802,6 +13823,8 @@ CCTV-国学频道,http:/huangfeiyan.top/zb1/CCTV-GXPD.m3u8
 贵阳-3 法制频道,http://1.95.63.93/zb/GY-3.m3u8
 六盘水-1,http://1.95.63.93/zb/LPS-1.m3u8
 六盘水-2,http://1.95.63.93/zb/LPS-2.m3u8
+
+
 少儿频道,#genre#
 卡酷少儿,http:/1.95.63.93/zb/KAKU.m3u8
 哈哈炫动,http:/1.95.63.93/zb/HHXD.m3u8
