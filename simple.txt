@@ -342,6 +342,454 @@ CHC影迷电影,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/li
 中华美食,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel37002/2300.m3u8
 
 
+山东地方台,#genre#
+济宁 | 微山综合, http://igrass.top:22333/sd.php?id=jiws1
+
+济宁 | 微山2, http://igrass.top:22333/sd.php?id=jiws2
+
+济宁 | 曲阜新闻综合, http://igrass.top:22333/sd.php?id=jiqfxw
+
+济宁 | 鱼台新闻, http://igrass.top:22333/sd.php?id=jiytxw
+
+济宁 | 鱼台生活, http://igrass.top:22333/sd.php?id=jiytsh
+
+济宁 | 任城综合, http://igrass.top:22333/sd.php?id=jircxw
+
+济宁 | 任城影视娱乐, http://igrass.top:22333/sd.php?id=jircys
+
+济宁 | 梁山综合, http://igrass.top:22333/sd.php?id=jilszh
+
+济宁 | 泗水新闻综合, http://igrass.top:22333/sd.php?id=jissxw
+
+济宁 | 泗水文化生活, http://igrass.top:22333/sd.php?id=jisswh
+
+济宁 | 金乡综合, http://igrass.top:22333/sd.php?id=jijxxw
+
+济宁 | 金乡生活, http://igrass.top:22333/sd.php?id=jijxsh
+
+济宁 | 邹城综合, http://igrass.top:22333/sd.php?id=jizcxw
+
+济宁 | 邹城文化生活, http://igrass.top:22333/sd.php?id=jizcwh
+
+济宁 | 兖州新闻, http://igrass.top:22333/sd.php?id=jiyzxw
+
+济宁 | 兖州生活, http://igrass.top:22333/sd.php?id=jiyzsh
+
+济宁 | 嘉祥综合, http://igrass.top:22333/sd.php?id=jijiaxw
+
+济宁 | 嘉祥生活, http://igrass.top:22333/sd.php?id=jijiash
+
+济宁 | 汶上综合, http://igrass.top:22333/sd.php?id=jiwsxw
+
+
+济南 | 齐鲁频道, http://igrass.top:22333/sd.php?id=qlpd
+
+济南 | 济阳综合, http://igrass.top:22333/sd.php?id=jnjyzh
+
+济南 | 济阳影视, http://igrass.top:22333/sd.php?id=jnjyys
+
+济南 | 商河综合, http://igrass.top:22333/sd.php?id=jnshzh
+
+济南 | 商河影视, http://igrass.top:22333/sd.php?id=jnshys
+
+济南 | 长清综合, http://igrass.top:22333/sd.php?id=jncqxw
+
+济南 | 长清生活, http://igrass.top:22333/sd.php?id=jncqsh
+
+济南 | 章丘综合, http://igrass.top:22333/sd.php?id=jnzq1
+
+济南 | 章丘TV-2, http://igrass.top:22333/sd.php?id=jnzq2
+
+济南 | 平阴综合, http://igrass.top:22333/sd.php?id=jnpyzh
+
+济南 | 平阴生活, http://igrass.top:22333/sd.php?id=jnpysh
+
+济南 | 历城综合, http://igrass.top:22333/sd.php?id=jnlcxw
+
+济南 | 济铁电视台, http://igrass.top:22333/sd.php?id=jnjrtv
+
+青岛 | 平度新闻综合, http://igrass.top:22333/sd.php?id=qdpdxw
+
+青岛 | 平度生活服务, http://igrass.top:22333/sd.php?id=qdpdsh
+
+青岛 | 李沧, http://igrass.top:22333/sd.php?id=qdlc
+
+青岛 | 即墨综合, http://igrass.top:22333/sd.php?id=qdjmxw
+
+青岛 | 即墨生活服务, http://igrass.top:22333/sd.php?id=qdjmsh
+
+青岛 | 黄岛综合, http://igrass.top:22333/sd.php?id=qdhdxw
+
+青岛 | 黄岛生活, http://igrass.top:22333/sd.php?id=qdhdsh
+
+青岛 | 莱西综合, http://igrass.top:22333/sd.php?id=qdlxzh
+
+青岛 | 莱西生活, http://igrass.top:22333/sd.php?id=qdlxsh
+
+青岛 | 崂山, http://igrass.top:22333/sd.php?id=qdls
+
+青岛 | 胶州综合, http://igrass.top:22333/sd.php?id=qdjzxw
+
+青岛 | 胶州生活, http://igrass.top:22333/sd.php?id=qdjzsh
+
+
+淄博 | 博山新闻, http://igrass.top:22333/sd.php?id=zbbsxw
+
+淄博 | 博山图文, http://igrass.top:22333/sd.php?id=zbbstw
+
+淄博 | 桓台综合, http://igrass.top:22333/sd.php?id=zbht1
+
+淄博 | 桓台影视, http://igrass.top:22333/sd.php?id=zbht2
+
+淄博 | 高青综合, http://igrass.top:22333/sd.php?id=zbgqzh
+
+淄博 | 高青影视, http://igrass.top:22333/sd.php?id=zbgqys
+
+淄博 | 淄川新闻, http://igrass.top:22333/sd.php?id=zbzcxw
+
+淄博 | 淄川生活, http://igrass.top:22333/sd.php?id=zbzcsh
+
+淄博 | 张店综合, http://igrass.top:22333/sd.php?id=zbzd1
+
+淄博 | 张店2, http://igrass.top:22333/sd.php?id=zbzd2
+
+淄博 | 临淄新闻综合, http://igrass.top:22333/sd.php?id=zblzxw
+
+淄博 | 临淄生活服务, http://igrass.top:22333/sd.php?id=zblzsh
+
+淄博 | 沂源综合, http://igrass.top:22333/sd.php?id=zbyyxw
+
+淄博 | 沂源生活, http://igrass.top:22333/sd.php?id=zbyysh
+
+淄博 | 周村新闻, http://igrass.top:22333/sd.php?id=zbzhxw
+
+淄博 | 周村生活, http://igrass.top:22333/sd.php?id=zbzhsh
+
+淄博 | 淄博高新, http://igrass.top:22333/sd.php?id=zbgx
+
+
+枣庄 | 薛城新闻综合, http://igrass.top:22333/sd.php?id=zzxcxw
+
+枣庄 | 滕州综合, http://igrass.top:22333/sd.php?id=zztzzh
+
+枣庄 | 滕州民生, http://igrass.top:22333/sd.php?id=zztzms
+
+枣庄 | 台儿庄新闻综合, http://igrass.top:22333/sd.php?id=zztezxw
+
+枣庄 | 峄城综合, http://igrass.top:22333/sd.php?id=zzyczh
+
+枣庄 | 枣庄市中综合, http://igrass.top:22333/sd.php?id=zzszzh
+
+枣庄 | 山亭综合, http://igrass.top:22333/sd.php?id=zzstzh
+
+
+东营 | 东营新闻综合, http://igrass.top:22333/sd.php?id=dyxwzh
+
+东营 | 东营公共, http://igrass.top:22333/sd.php?id=dygg
+
+东营 | 利津综合, http://igrass.top:22333/sd.php?id=dyljxw
+
+东营 | 利津文化生活, http://igrass.top:22333/sd.php?id=dyljwh
+
+东营 | 东营区综合, http://igrass.top:22333/sd.php?id=dyqxw
+
+东营 | 东营区科教影视, http://igrass.top:22333/sd.php?id=dyqkj
+
+东营 | 广饶综合, http://igrass.top:22333/sd.php?id=dygrxw
+
+东营 | 广饶科教文艺, http://igrass.top:22333/sd.php?id=dygrkj
+
+
+烟台 | 招远综合, http://igrass.top:22333/sd.php?id=ytzyzh
+
+烟台 | 招远综艺, http://igrass.top:22333/sd.php?id=ytzyzy
+
+烟台 | 龙口综合, http://igrass.top:22333/sd.php?id=ytlkzh
+
+烟台 | 龙口生活, http://igrass.top:22333/sd.php?id=ytlksh
+
+烟台 | 蓬莱新闻, http://igrass.top:22333/sd.php?id=ytplxw
+
+烟台 | 蓬莱综合, http://igrass.top:22333/sd.php?id=ytplzh
+
+烟台 | 栖霞综合, http://igrass.top:22333/sd.php?id=ytqxzh
+
+烟台 | 栖霞苹果, http://igrass.top:22333/sd.php?id=ytqxpg
+
+烟台 | 长岛, http://igrass.top:22333/sd.php?id=ytcd
+
+烟台 | 福山综合, http://igrass.top:22333/sd.php?id=ytfszh
+
+烟台 | 莱州综合, http://igrass.top:22333/sd.php?id=ytlzzh
+
+烟台 | 莱州商务, http://igrass.top:22333/sd.php?id=ytlzsw
+
+烟台 | 莱阳综合, http://igrass.top:22333/sd.php?id=ytlyxw
+
+烟台 | 莱阳民生综艺, http://igrass.top:22333/sd.php?id=ytlyms
+
+烟台 | 莱山综合, http://igrass.top:22333/sd.php?id=ytlszh
+
+烟台 | 莱山影视, http://igrass.top:22333/sd.php?id=ytlsys
+
+烟台 | 海阳综合, http://igrass.top:22333/sd.php?id=ythyzh
+
+烟台 | 牟平新闻, http://igrass.top:22333/sd.php?id=ytmpxw
+
+
+潍坊 | 潍坊新闻综合, http://igrass.top:22333/sd.php?id=wfxwzh
+
+潍坊 | 潍坊生活, http://igrass.top:22333/sd.php?id=wfsh
+
+潍坊 | 潍坊影视综艺, http://igrass.top:22333/sd.php?id=wfyswy
+
+潍坊 | 潍坊科教文旅, http://igrass.top:22333/sd.php?id=wfkjwl
+
+潍坊 | 潍坊高新区, http://igrass.top:22333/sd.php?id=wfgxq
+
+潍坊 | 昌乐综合, http://igrass.top:22333/sd.php?id=wfclxw
+
+潍坊 | 潍城TV, http://igrass.top:22333/sd.php?id=wfwc
+
+潍坊 | 昌邑综合, http://igrass.top:22333/sd.php?id=wfcyxw
+
+潍坊 | 昌邑经济生活, http://igrass.top:22333/sd.php?id=wfcyjj
+
+潍坊 | 高密综合, http://igrass.top:22333/sd.php?id=wfgmxw
+
+潍坊 | 诸城新闻综合, http://igrass.top:22333/sd.php?id=wfzcxw
+
+潍坊 | 诸城生活娱乐, http://igrass.top:22333/sd.php?id=wfzcsh
+
+潍坊 | 青州综合, http://igrass.top:22333/sd.php?id=wfqzzh
+
+潍坊 | 青州文化旅游, http://igrass.top:22333/sd.php?id=wfqzwh
+
+潍坊 | 奎文, http://igrass.top:22333/sd.php?id=wfkw
+
+潍坊 | 寒亭新闻, http://igrass.top:22333/sd.php?id=wfhtxw
+
+潍坊 | 安丘综合, http://igrass.top:22333/sd.php?id=wfaqxw
+
+潍坊 | 安丘民生, http://igrass.top:22333/sd.php?id=wfaqms
+
+潍坊 | 临朐综合, http://igrass.top:22333/sd.php?id=wflqxw
+
+潍坊 | 坊子新闻综合, http://igrass.top:22333/sd.php?id=wffzxw
+
+
+泰安 | 肥城综合, http://igrass.top:22333/sd.php?id=tafczh
+
+泰安 | 肥城生活, http://igrass.top:22333/sd.php?id=tafcsh
+
+泰安 | 新泰综合, http://igrass.top:22333/sd.php?id=taxtxw
+
+泰安 | 新泰乡村, http://igrass.top:22333/sd.php?id=taxtxc
+
+泰安 | 宁阳综合, http://igrass.top:22333/sd.php?id=tany1
+
+泰安 | 宁阳2, http://igrass.top:22333/sd.php?id=tany2
+
+泰安 | 东平综合, http://igrass.top:22333/sd.php?id=tadpxw
+
+泰安 | 东平民生, http://igrass.top:22333/sd.php?id=tadpms
+
+泰安 | 泰山TV, http://igrass.top:22333/sd.php?id=tats
+
+泰安 | 岱岳TV, http://igrass.top:22333/sd.php?id=tady
+
+
+威海 | 威海新闻综合, http://igrass.top:22333/sd.php?id=whxwzh
+
+威海 | 威海都市生活, http://igrass.top:22333/sd.php?id=whgg
+
+威海 | 威海海洋, http://igrass.top:22333/sd.php?id=whhy
+
+威海 | 荣成综合, http://igrass.top:22333/sd.php?id=whrczh
+
+威海 | 荣成生活, http://igrass.top:22333/sd.php?id=whrcsh
+
+威海 | 文登综合, http://igrass.top:22333/sd.php?id=whwd1
+
+威海 | 乳山综合, http://igrass.top:22333/sd.php?id=whrsxw
+
+威海 | 乳山生活, http://igrass.top:22333/sd.php?id=whrssh
+
+
+日照 | 莒县综合, http://igrass.top:22333/sd.php?id=rzjx1
+
+日照 | 莒县2, http://igrass.top:22333/sd.php?id=rzjx2
+
+日照 | 莒县新闻, http://igrass.top:22333/sd.php?id=rzjxxw
+
+日照 | 岚山, http://igrass.top:22333/sd.php?id=rzls
+
+日照 | 五莲综合, http://igrass.top:22333/sd.php?id=rzwlxw
+
+日照 | 五莲文化旅游, http://igrass.top:22333/sd.php?id=rzwlwh
+
+
+滨州 | 邹平综合, http://igrass.top:22333/sd.php?id=bzzpxw
+
+滨州 | 邹平民生, http://igrass.top:22333/sd.php?id=bzzpms
+
+滨州 | 无棣综合, http://igrass.top:22333/sd.php?id=bzwdzh
+
+滨州 | 无棣综艺, http://igrass.top:22333/sd.php?id=bzwdzy
+
+滨州 | 博兴综合, http://igrass.top:22333/sd.php?id=bzbxxw
+
+滨州 | 博兴生活, http://igrass.top:22333/sd.php?id=bzbxsh
+
+滨州 | 惠民综合, http://igrass.top:22333/sd.php?id=bzhmzh
+
+滨州 | 惠民影视, http://igrass.top:22333/sd.php?id=bzhmys
+
+滨州 | 阳信新闻综合, http://igrass.top:22333/sd.php?id=bzyxxw
+
+滨州 | 滨城TV, http://igrass.top:22333/sd.php?id=bzbctv
+
+滨州 | 沾化综合, http://igrass.top:22333/sd.php?id=bzzhzh
+
+德州 | 德州新闻综合, http://igrass.top:22333/sd.php?id=dzxwzh
+
+德州 | 德州经济生活, http://igrass.top:22333/sd.php?id=dzjjsh
+
+德州 | 庆云综合, http://igrass.top:22333/sd.php?id=dzqyxw
+
+德州 | 庆云生活, http://igrass.top:22333/sd.php?id=dzqysh
+
+德州 | 平原综合, http://igrass.top:22333/sd.php?id=dzpyxw
+
+德州 | 武城综合, http://igrass.top:22333/sd.php?id=dzwcxw
+
+德州 | 武城综艺影视, http://igrass.top:22333/sd.php?id=dzwczy
+
+德州 | 临邑1, http://igrass.top:22333/sd.php?id=dzly1
+
+德州 | 临邑2, http://igrass.top:22333/sd.php?id=dzly2
+
+德州 | 宁津综合, http://igrass.top:22333/sd.php?id=dznjxw
+
+德州 | 陵城综合, http://igrass.top:22333/sd.php?id=dzlcxw
+
+德州 | 夏津综合, http://igrass.top:22333/sd.php?id=dzxjzh
+
+德州 | 夏津公共, http://igrass.top:22333/sd.php?id=dzxjgg
+
+德州 | 禹城综合, http://igrass.top:22333/sd.php?id=dzyczh
+
+德州 | 禹城综艺, http://igrass.top:22333/sd.php?id=dzyczy
+
+德州 | 齐河新闻, http://igrass.top:22333/sd.php?id=dzqhxw
+
+德州 | 乐陵新闻综合, http://igrass.top:22333/sd.php?id=dzllxw
+
+德州 | 乐陵城市生活, http://igrass.top:22333/sd.php?id=dzllcs
+
+聊城 | 茌平综合, http://igrass.top:22333/sd.php?id=lccpzh
+
+聊城 | 茌平生活, http://igrass.top:22333/sd.php?id=lccpsh
+
+聊城 | 高唐综合, http://igrass.top:22333/sd.php?id=lcgtzh
+
+聊城 | 高唐生活, http://igrass.top:22333/sd.php?id=lcgtsh
+
+聊城 | 临清综合, http://igrass.top:22333/sd.php?id=lclqzh
+
+聊城 | 临清经济信息, http://igrass.top:22333/sd.php?id=lclqjj
+
+聊城 | 冠县综合, http://igrass.top:22333/sd.php?id=lcgxzh
+
+聊城 | 阳谷综合, http://igrass.top:22333/sd.php?id=lcygxw
+
+聊城 | 阳谷影视, http://igrass.top:22333/sd.php?id=lcygys
+
+聊城 | 东阿综合, http://igrass.top:22333/sd.php?id=lcdexw
+
+聊城 | 东阿综艺信息, http://igrass.top:22333/sd.php?id=lcdezy
+
+聊城 | 莘县综合, http://igrass.top:22333/sd.php?id=lcsx1
+
+聊城 | 莘县2, http://igrass.top:22333/sd.php?id=lcsx2
+
+聊城 | 东昌综合, http://igrass.top:22333/sd.php?id=lcdczh
+
+临沂 | 费县综合, http://igrass.top:22333/sd.php?id=lyfxzh
+
+临沂 | 费县生活, http://igrass.top:22333/sd.php?id=lyfxsh
+
+临沂 | 郯城TV-1, http://igrass.top:22333/sd.php?id=lytc1
+
+临沂 | 郯城TV-2, http://igrass.top:22333/sd.php?id=lytc2
+
+临沂 | 莒南综合, http://igrass.top:22333/sd.php?id=lyjnzh
+
+临沂 | 莒南影视, http://igrass.top:22333/sd.php?id=lyjnys
+
+临沂 | 兰陵综合, http://igrass.top:22333/sd.php?id=lyllzh
+
+临沂 | 兰陵公共, http://igrass.top:22333/sd.php?id=lyllgg
+
+临沂 | 沂水综合, http://igrass.top:22333/sd.php?id=lyys1
+
+临沂 | 沂水生活, http://igrass.top:22333/sd.php?id=lyys2
+
+临沂 | 罗庄综合, http://igrass.top:22333/sd.php?id=lylzzh
+
+临沂 | 罗庄影视, http://igrass.top:22333/sd.php?id=lylzys
+
+临沂 | 蒙阴综合, http://igrass.top:22333/sd.php?id=lymy1
+
+临沂 | 蒙阴2, http://igrass.top:22333/sd.php?id=lymy2
+
+临沂 | 临沭综合, http://igrass.top:22333/sd.php?id=lyls1
+
+临沂 | 临沭生活, http://igrass.top:22333/sd.php?id=lyls2
+
+临沂 | 沂南综合, http://igrass.top:22333/sd.php?id=lyynzh
+
+临沂 | 沂南温泉旅游, http://igrass.top:22333/sd.php?id=lyynwq
+
+临沂 | 河东综合, http://igrass.top:22333/sd.php?id=lyhdzh
+
+临沂 | 河东影视, http://igrass.top:22333/sd.php?id=lyhdys
+
+临沂 | 兰山, http://igrass.top:22333/sd.php?id=lylatv
+
+临沂 | 平邑综合, http://igrass.top:22333/sd.php?id=lypyxw
+
+临沂 | 平邑生活, http://igrass.top:22333/sd.php?id=lypysh
+
+菏泽 | 定陶综合, http://igrass.top:22333/sd.php?id=hzdt1
+
+菏泽 | 定陶教育, http://igrass.top:22333/sd.php?id=hzdt2
+
+菏泽 | 曹县综合, http://igrass.top:22333/sd.php?id=hzcxxw
+
+菏泽 | 东明综合, http://igrass.top:22333/sd.php?id=hzdmxw
+
+菏泽 | 成武综合, http://igrass.top:22333/sd.php?id=hzcwzh
+
+菏泽 | 成武综艺, http://igrass.top:22333/sd.php?id=hzcwzy
+
+菏泽 | 郓城新闻, http://igrass.top:22333/sd.php?id=hzycxw
+
+菏泽 | 郓城综艺, http://igrass.top:22333/sd.php?id=hzyczy
+
+菏泽 | 巨野新闻, http://igrass.top:22333/sd.php?id=hzjyxw
+
+菏泽 | 鄄城综合, http://igrass.top:22333/sd.php?id=hzjczh
+
+菏泽 | 鄄城综艺, http://igrass.top:22333/sd.php?id=hzjczy
+
+菏泽 | 单县综合, http://igrass.top:22333/sd.php?id=hzsxzh
+
+菏泽 | 牡丹区综合, http://igrass.top:22333/sd.php?id=hzmdxw
+
+菏泽 | 牡丹区综艺, http://igrass.top:22333/sd.php?id=hzmdzy
+
+
 央视频道,#genre#
 CCTV1-综合,http:/1.95.63.93/zb/CCTV1.m3u8
 CCTV2-财经,http:/1.95.63.93/zb/CCTV2.m3u8
