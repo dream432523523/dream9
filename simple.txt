@@ -1344,19 +1344,3 @@ CCTV15,http://tjzzz.top:22333/gctv.php?id=cctv15
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 
-测试直播,#genre#
-测试频道1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch1
-测试频道2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch2
-测试频道3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch3
-测试频道4,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch4
-测试频道5,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch5
-体育直播-1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
-体育直播-2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
-体育直播-3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
-体育直播-4,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
-体育直播-5,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
-体育直播-6,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
-体育直播-7,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
-体育直播-8,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
-体育直播-9,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
-体育直播-10,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
