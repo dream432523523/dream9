@@ -153,6 +153,7 @@ CCTV-17,http://219.147.200.9:18080/newlive/live/hls/17/live.m3u8
 济宁|嘉祥生活,http://tjzzz.top:22333/sd.php?id=jijiash
 济宁|汶上综合,http://tjzzz.top:22333/sd.php?id=jiwsxw
 
+济南|新闻综合,http://124.128.73.58:9901/tsfile/live/1003_1.m3u8
 济南|齐鲁频道,http://tjzzz.top:22333/sd.php?id=qlpd
 济南|济阳综合,http://tjzzz.top:22333/sd.php?id=jnjyzh
 济南|济阳影视,http://tjzzz.top:22333/sd.php?id=jnjyys
