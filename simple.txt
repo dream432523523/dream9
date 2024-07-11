@@ -135,6 +135,7 @@ CCTV-17,http://219.147.200.9:18080/newlive/live/hls/17/live.m3u8
 济宁|济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 济宁|济宁生活,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8
 济宁|济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+山东|山东综艺,http://182.32.160.19:9997/udp/239.21.1.177:5002
 济宁|曲阜新闻综合,http://tjzzz.top:22333/sd.php?id=jiqfxw
 济宁|鱼台新闻,http://tjzzz.top:22333/sd.php?id=jiytxw
 济宁|鱼台生活,http://tjzzz.top:22333/sd.php?id=jiytsh
