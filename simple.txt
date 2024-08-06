@@ -355,14 +355,14 @@ iHOT-爱幼教,http://tjzzz.top:36178/itv/6000000006000180630.m3u8?cdn=wasusyt
 iHOT-爱院线,http://tjzzz.top:36178/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 📡奥运频道,#genre#
-V4普通源👇，http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+V4普通源👇,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://219.147.200.9:18080/newlive/live/hls/5/live.m3u8
 CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://219.147.200.9:18080/newlive/live/hls/16/live.m3u8
 
-V4高码源👇
+V4高码源👇,http://tjzzz.top:36178/ysptp/cctv5.m3u8
 CCTV-5-高码,http://tjzzz.top:36178/ysptp/cctv5.m3u8
 CCTV-5,http://tjzzz.top:36178/itv/1000000005000025222.m3u8?cdn=ystenlive
 CCTV-5-HEVC,http://tjzzz.top:36178/itv/1000000005000265005.m3u8?cdn=ystenlive
@@ -375,7 +375,7 @@ CCTV-16-4K-HEVC,http://tjzzz.top:36178/itv/5000000008000023254.m3u8?cdn=bestzb
 CCTV-16-4k-10m,http://tjzzz.top:36178/ysptp/cctv4k16_10m.m3u8
 CCTV-16-4k,http://tjzzz.top:36178/ysptp/cctv4k16.m3u8
 
-V6高速源👇
+V6高速源👇,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV--5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV--5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV--16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
